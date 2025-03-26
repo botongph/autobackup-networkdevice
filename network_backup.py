@@ -1,3 +1,10 @@
+##Comment only in this area
+##script was generate with assitance of Claude sonnet
+##
+
+
+
+#start of code below
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
